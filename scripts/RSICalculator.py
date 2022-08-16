@@ -1,7 +1,7 @@
 import json
 import datetime
 import time
-from scripts import SendMessage
+import SendMessage
 
 companyList = []
 newCompanyList = []
@@ -59,11 +59,11 @@ def analyzeRSI():
 
     SendMessage.send_StochasticRSI_message(buylist, selllist)
 
-    with open('buyData.json', 'w+') as outfile:
-        json.dump(buylist, outfile, indent=4)
-
-    with open('sellData.json', 'w+') as outfile:
-        json.dump(selllist, outfile, indent=4)
+    # with open('buyData.json', 'w+') as outfile:
+    #     json.dump(buylist, outfile, indent=4)
+    #
+    # with open('sellData.json', 'w+') as outfile:
+    #     json.dump(selllist, outfile, indent=4)
 
 
 def getConvergenceStochastic(stochData, timeSpan):

@@ -4,7 +4,7 @@ import time
 import socket
 from datetime import datetime as dt
 from statistics import pstdev
-from scripts import SendMessage
+import SendMessage
 
 companyList = []
 updatedAt= 0.0
