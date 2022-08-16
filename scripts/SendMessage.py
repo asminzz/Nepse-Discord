@@ -1,8 +1,3 @@
-import discord
-
-# webhook for nepse discord general
-# https://discord.com/api/webhooks/987378652813623367/splN2-ePyKsx4UM2BY11jKNIhMh7MABEBdPpaEjQX_RLeEmZM5ya7o1ed_IkFYhBBh3o
-import requests
 from discord import Webhook, RequestsWebhookAdapter
 
 
