@@ -25,8 +25,8 @@ def analyzeBollingerBands():
         allData = json.loads(outfile.read())
         print("Reading all Data done")
         # print(companyList)
-        # for companyName in companyList:
-        for companyName in companyName:
+        for companyName in companyList:
+#         for companyName in companyName:
             try:
                 if (updatedAt != datetime.datetime.fromtimestamp(time.mktime(time.gmtime(
                     allData[companyName]["data"]["t"][len(allData[companyName]["data"]["t"]) - 1]))).strftime("%Y-%m-%d")):
