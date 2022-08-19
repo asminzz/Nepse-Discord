@@ -1,5 +1,5 @@
-Updated at 08/18/2022, 11:28:39
-Hostname: fv-az459-214IP Address: 10.1.1.131
+Updated at 08/19/2022, 11:29:04
+Hostname: fv-az456-561IP Address: 10.1.1.68
 BUY WATCH (Low price below lower band):{
     "NMBHF1": -8.231368186874306,
     "JSLBB": -4.573002754820936,
