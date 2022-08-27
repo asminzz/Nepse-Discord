@@ -1,5 +1,5 @@
-Updated at 08/26/2022, 11:29:17
-Hostname: fv-az318-941IP Address: 10.1.0.222
+Updated at 08/27/2022, 11:27:58
+Hostname: fv-az302-483IP Address: 10.1.0.67
 BUY WATCH (Low price below lower band):{
     "SFMF": -2.7272727272727337,
     "NICBF": -1.752677702044788,
