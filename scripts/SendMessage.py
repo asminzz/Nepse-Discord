@@ -10,11 +10,11 @@ webhook = Webhook.from_url(webhook_url, adapter=RequestsWebhookAdapter())
 
 def send_BollingerBand_message(buylist, selllist):
     message = 'Today\'s Bollinger Band Analysis\n\n'
-    message += 'BUY LIST --> Stocks deviating upward from lower band\n'
+    message += 'BUY LIST --> Stocks that touched the lower band --> Watch for next buy\n'
     for b in buylist:
         message += b+'\n'
 
-    message += '\nSell LIST --> Stocks deviating downward from upper band\n'
+    message += '\nSell LIST --> Stocks that touched the upper band --> Watch for sell\n'
     for s in selllist:
         message += s+'\n'
     webhook = Webhook.from_url(url_Bollinger_Band_webhook, adapter=RequestsWebhookAdapter())
