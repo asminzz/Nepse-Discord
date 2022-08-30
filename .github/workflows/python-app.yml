@@ -44,6 +44,11 @@ jobs:
           pip install beautifulsoup4 urllib3 discord requests
           
       - name: Execute Python script
+        env: # environment variable
+            WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+            WEBHOOK_STOCHASTIC_RSI: ${{ secrets.WEBHOOK_STOCHASTIC_RSI }}
+            WEBHOOK_BOLLINGER_BAND: ${{ secrets.WEBHOOK_BOLLINGER_BAND }}
+            
         run: |
          python scripts/DailyUpdater.py
           python scripts/RSICalculator.py
