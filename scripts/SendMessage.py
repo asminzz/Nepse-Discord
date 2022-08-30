@@ -3,8 +3,8 @@ from discord import Webhook, RequestsWebhookAdapter
 import os
 
 webhook_url = os.environ['WEBHOOK_URL']
-url_Stochastic_RSI_webhook = os.environ['WEBHOOK_STOCHASTIC_RSI ']
-url_Bollinger_Band_webhook = os.environ['WEBHOOK_BOLLINGER_BAND ']
+url_Stochastic_RSI_webhook = os.environ['WEBHOOK_STOCHASTIC_RSI']
+url_Bollinger_Band_webhook = os.environ['WEBHOOK_BOLLINGER_BAND']
 
 
 webhook = Webhook.from_url(webhook_url, adapter=RequestsWebhookAdapter())
