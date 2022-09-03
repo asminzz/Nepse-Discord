@@ -1,5 +1,5 @@
-Updated at 09/02/2022, 11:29:26
-Hostname: fv-az133-274IP Address: 10.1.0.235
+Updated at 09/03/2022, 11:27:41
+Hostname: fv-az345-243IP Address: 10.1.0.87
 BUY WATCH (Low price below lower band):{
     "BHDC": -4.841527327177448,
     "LEC": -4.262432093606347,
