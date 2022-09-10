@@ -1,5 +1,5 @@
-Updated at 09/09/2022, 11:31:09
-Hostname: fv-az196-500IP Address: 10.1.0.78
+Updated at 09/10/2022, 11:29:57
+Hostname: fv-az200-699IP Address: 10.1.0.167
 BUY WATCH (Low price below lower band):{
     "CMF1": -6.217616580310875,
     "ILBS": -3.6666666666666665,
