@@ -1,5 +1,5 @@
-Updated at 09/16/2022, 11:30:56
-Hostname: fv-az77-583IP Address: 10.1.0.162
+Updated at 09/17/2022, 11:29:55
+Hostname: fv-az105-884IP Address: 10.1.0.46
 BUY WATCH (Low price below lower band):{
     "NBF2": -1.9101123595505607,
     "NIBLPF": -1.903553299492379,
