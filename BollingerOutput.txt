@@ -1,5 +1,5 @@
-Updated at 09/18/2022, 11:30:27
-Hostname: fv-az177-313IP Address: 10.1.0.40
+Updated at 09/19/2022, 11:30:57
+Hostname: fv-az747-668IP Address: 10.1.0.243
 BUY WATCH (Low price below lower band):{
     "NBF2": -5.843439911797126,
     "NESDO": -3.423932227320861,
