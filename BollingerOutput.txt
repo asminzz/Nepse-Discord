@@ -1,5 +1,5 @@
-Updated at 09/22/2022, 11:31:24
-Hostname: fv-az133-62IP Address: 10.1.1.60
+Updated at 09/23/2022, 11:32:23
+Hostname: fv-az200-30IP Address: 10.1.1.134
 BUY WATCH (Low price below lower band):{
     "SPC": -6.3667820069204195,
     "SIGS2": -4.214559386973181,
