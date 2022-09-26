@@ -1,5 +1,5 @@
-Updated at 09/25/2022, 11:30:59
-Hostname: fv-az47-694IP Address: 10.1.0.141
+Updated at 09/26/2022, 11:32:21
+Hostname: fv-az626-583IP Address: 10.1.0.195
 BUY WATCH (Low price below lower band):{
     "SPC": -4.966384732162216,
     "TRH": -3.492063492063492,
