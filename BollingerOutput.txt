@@ -1,5 +1,5 @@
-Updated at 10/03/2022, 11:34:02
-Hostname: fv-az380-530IP Address: 10.1.0.251
+Updated at 10/04/2022, 11:33:26
+Hostname: fv-az225-501IP Address: 10.1.0.145
 BUY WATCH (Low price below lower band):{
     "MMF1": -5.374823196605373,
     "MKLB": -4.800866321742267,
