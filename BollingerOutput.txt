@@ -1,5 +1,5 @@
-Updated at 10/14/2022, 11:34:15
-Hostname: fv-az447-90IP Address: 10.1.1.99
+Updated at 10/15/2022, 11:32:03
+Hostname: fv-az213-825IP Address: 10.1.0.106
 BUY WATCH (Low price below lower band):{
     "NHPC": -8.276643990929703,
     "SEF": -7.554417413572353,
