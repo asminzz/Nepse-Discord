@@ -1,5 +1,5 @@
-Updated at 10/17/2022, 11:35:47
-Hostname: fv-az183-510IP Address: 10.1.1.157
+Updated at 10/18/2022, 11:34:41
+Hostname: fv-az292-796IP Address: 10.1.0.192
 BUY WATCH (Low price below lower band):{
     "SHEL": -5.190476190476193,
     "HEIP": -1.4799154334038054,
