@@ -1,5 +1,5 @@
-Updated at 10/20/2022, 11:35:29
-Hostname: fv-az505-777IP Address: 10.1.0.252
+Updated at 10/21/2022, 11:34:37
+Hostname: fv-az165-552IP Address: 10.1.0.117
 BUY WATCH (Low price below lower band):{
     "SMB": -6.026200873362445,
     "UHEWA": -5.98130841121495,
