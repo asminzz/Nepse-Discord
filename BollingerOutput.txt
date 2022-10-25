@@ -1,5 +1,5 @@
-Updated at 10/24/2022, 11:36:40
-Hostname: fv-az345-708IP Address: 10.1.0.190
+Updated at 10/25/2022, 11:34:47
+Hostname: fv-az619-81IP Address: 10.1.0.80
 BUY WATCH (Low price below lower band):{
     "BNHC": -4.892966360856269,
     "LEMF": -3.814713896457769,
