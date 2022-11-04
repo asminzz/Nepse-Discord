@@ -1,5 +1,5 @@
-Updated at 11/03/2022, 11:27:58
-Hostname: fv-az372-956IP Address: 10.1.0.73
+Updated at 11/04/2022, 11:28:41
+Hostname: fv-az203-943IP Address: 10.1.0.57
 BUY WATCH (Low price below lower band):{
     "BFC": -2.5393764063002178,
     "GLH": -2.1702127659574444,
