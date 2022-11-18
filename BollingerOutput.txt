@@ -1,5 +1,5 @@
-Updated at 11/17/2022, 11:26:50
-Hostname: fv-az213-286IP Address: 10.1.0.86
+Updated at 11/18/2022, 11:27:07
+Hostname: fv-az200-967IP Address: 10.1.1.139
 BUY WATCH (Low price below lower band):{
     "GMFBS": -5.90849673202615,
     "NBF3": -5.809128630705393,
