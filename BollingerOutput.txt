@@ -1,5 +1,5 @@
-Updated at 11/20/2022, 11:25:51
-Hostname: fv-az345-459IP Address: 10.1.0.115
+Updated at 11/21/2022, 11:26:53
+Hostname: fv-az465-497IP Address: 10.1.0.135
 BUY WATCH (Low price below lower band):{
     "GMFBS": -5.90849673202615,
     "NBF3": -5.809128630705393,
