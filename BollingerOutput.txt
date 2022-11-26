@@ -1,5 +1,5 @@
-Updated at 11/25/2022, 11:25:44
-Hostname: fv-az571-81IP Address: 10.1.0.84
+Updated at 11/26/2022, 11:24:09
+Hostname: fv-az208-3IP Address: 10.1.0.161
 BUY WATCH (Low price below lower band):{
     "RMDC": -9.472329472329475,
     "SKBBL": -3.5194416749750705,
