@@ -1,5 +1,5 @@
-Updated at 12/01/2022, 11:26:04
-Hostname: fv-az178-670IP Address: 10.1.0.11
+Updated at 12/02/2022, 11:21:50
+Hostname: fv-az215-718IP Address: 10.1.0.200
 BUY WATCH (Low price below lower band):{
     "CLBSL": -5.103448275862069,
     "LBL": 0.0,
