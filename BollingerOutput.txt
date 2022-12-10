@@ -1,5 +1,5 @@
-Updated at 12/09/2022, 11:24:32
-Hostname: fv-az446-772IP Address: 10.1.0.190
+Updated at 12/10/2022, 11:23:03
+Hostname: fv-az246-666IP Address: 10.1.0.101
 BUY WATCH (Low price below lower band):{
     "LLBS": -4.595404595404595,
     "KDBY": -2.040816326530614,
