@@ -1,5 +1,5 @@
-Updated at 12/16/2022, 11:23:16
-Hostname: fv-az210-604IP Address: 10.1.1.143
+Updated at 12/17/2022, 11:21:42
+Hostname: fv-az578-567IP Address: 10.1.0.50
 BUY WATCH (Low price below lower band):{
     "SBCF": -5.034013605442179,
     "HIDCLP": -2.0986358866736623,
