@@ -1,5 +1,5 @@
-Updated at 12/29/2022, 11:22:57
-Hostname: fv-az573-607IP Address: 10.1.0.122
+Updated at 12/30/2022, 11:22:42
+Hostname: fv-az395-266IP Address: 10.1.0.92
 BUY WATCH (Low price below lower band):{
     "GBBL": -0.535395597858421,
     "NICGF": 0.0,
