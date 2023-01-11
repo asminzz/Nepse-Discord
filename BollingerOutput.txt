@@ -1,5 +1,5 @@
-Updated at 01/10/2023, 11:27:05
-Hostname: fv-az578-342IP Address: 10.1.1.6
+Updated at 01/11/2023, 11:25:32
+Hostname: fv-az366-937IP Address: 10.1.0.89
 BUY WATCH (Low price below lower band):{
     "HDL": 1.9345761519521634,
     "ULBSL": 3.3858727378867486
